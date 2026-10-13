@@ -120,7 +120,7 @@ analogWrite(DAC1, 2048);             // right channel
 3. Solder components with help of pcb image below.
 4. Plug the shield into DUE.
 5. Trim the leads under the VGA and PS/2 connectors since they might be blocking.
-<br>
+
 ![Board](docs/board.png)
 ### Notes
 - **Headphones:** the DAC output is line level. High-impedance headphones and amplified speakers are fine; low-impedance earbuds will be quiet.
