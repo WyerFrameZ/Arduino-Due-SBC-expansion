@@ -141,5 +141,5 @@ analogWrite(DAC1, 2048);             // right channel
 
 ## License
 
-TBD
+MIT 
 
