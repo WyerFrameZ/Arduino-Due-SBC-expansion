@@ -42,7 +42,7 @@
 |---|---|
 | ![Top](docs/render_top.png) | ![Bottom](docs/render_bottom.png) |
 
-Schematic: [docs/schematic.pdf](docs/schematic.pdf)
+Schematic: [docs/schematic.pdf](docs/schematic.png)
 
 ## Pins used
 
