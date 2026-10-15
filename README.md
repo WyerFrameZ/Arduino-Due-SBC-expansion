@@ -115,7 +115,7 @@ analogWrite(DAC1, 2048);             // right channel
 
 ## How to build and use it
 
-1. Order the PCB: download `SBC_Carrier_JLCPCB.zip` and upload to JLCPCB.
+1. Order the PCB: download [`Arduino-Due-SBC.ver.1.1.zip`](https://github.com/WyerFrameZ/Arduino-Due-SBC-expansion/releases/download/ver1.1/Arduino-Due-SBC.ver.1.1.zip) and upload to JLCPCB.
 2. Get the parts from the list.
 3. Solder components with help of pcb image below.
 4. Plug the shield into DUE.
